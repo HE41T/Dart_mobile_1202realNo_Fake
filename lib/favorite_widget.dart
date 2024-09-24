@@ -43,8 +43,10 @@ class FavoriteWidgetState extends State<FavoriteWidget> {
         ), // Container
         SizedBox(
           width: 18,
-          child: Text('$_favoriteCount'),
-        ), // SizedBox
+          child: SizedBox(
+            child: Text('$_favoriteCount'),
+          ),
+        ),
       ], // Children of Row
     ); // Row
   }
