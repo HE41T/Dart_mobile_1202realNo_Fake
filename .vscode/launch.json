@@ -9,17 +9,5 @@
             "request": "launch",
             "type": "dart"
         },
-        {
-            "name": "flutter_1202real_v3 (profile mode)",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "profile"
-        },
-        {
-            "name": "flutter_1202real_v3 (release mode)",
-            "request": "launch",
-            "type": "dart",
-            "flutterMode": "release"
-        }
     ]
 }
